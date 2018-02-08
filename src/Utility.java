@@ -5,8 +5,8 @@ import java.lang.*;
 /**
  * Class containing helper utility functions
  * 
- * @author Zaid Ajaj
- * @author Luna Scherntharen
+ * @author Zaid Ajaj - s4807561
+ * @author Luna-Elise Schernthaner - s4703928
  */
 public class Utility
 {
