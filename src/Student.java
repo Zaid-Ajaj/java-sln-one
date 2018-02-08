@@ -4,7 +4,7 @@ import java.lang.*;
  /**
   * This class describes a student and the basic property he/she has. 
   * @author Zaid Ajaj - s4807561
-  * @author Luna Scherntharen
+  * @author Luna-Elise Schernthaner - s4703928
   */
 public class Student
 {
