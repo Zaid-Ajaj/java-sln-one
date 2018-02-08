@@ -5,8 +5,8 @@ import java.lang.*;
  * Assignment 1
  * This program creates and manipulates a group of students with the help of user input
  * 
- * @author Luna Scherntharen 
- * @author Zaid Ajaj
+ * @author Luna-Elise Schernthaner - s4703928 
+ * @author Zaid Ajaj - s4807561
  */
 public class StudentGroupEditor 
 {
